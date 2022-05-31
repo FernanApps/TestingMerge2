@@ -1,4 +1,0 @@
-[submodule "TestingMerge1"]
-	path = TestingMerge1
-	url = https://github.com/FernanApps/TestingMerge1.git
-	branch = main
